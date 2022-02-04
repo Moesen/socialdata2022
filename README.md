@@ -1,1 +1,1 @@
-This is the repository for the DTU class "Social Data Analysis and Visualization" (02806)
+This is the forked repository for the DTU class "Social Data Analysis and Visualization" (02806) used to answer exercises
